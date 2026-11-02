@@ -20,7 +20,7 @@ function draw() {
   background(220);
 
   // ----- for loop vs while loop -----
-  // for loop version (commented out)
+  // for loop version
   // for (let xValue = 50; xValue <= 650; xValue += 150) {
   //   rect(xValue, 480, 100, 100);
   // }

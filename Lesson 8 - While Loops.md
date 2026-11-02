@@ -51,7 +51,7 @@ Pay close attention to where everything is located:
 
 If a while loop can do the same thing as a for loop, why have both?
 
-- Use a **for loop** when you know (or can calculate) how many times to repeat. *Draw 10 rectangles. Go through every pixel across the screen.*
+- Use a **for loop** when you know (or can calculate) how many times to repeat. *Draw 10 rectangles. Go through each value in this array (later).*
 - Use a **while loop** when you know when to **stop**, but not how many times that will take. *Keep going until the balance reaches $1000. Keep trying until we get a good value.*
 
 Here are some examples where we don't know the number of repeats ahead of time.
